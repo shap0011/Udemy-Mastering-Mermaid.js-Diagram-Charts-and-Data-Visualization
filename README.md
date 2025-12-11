@@ -1,8 +1,8 @@
-# _Mastering Mermaid.js: Diagram, Charts and Data Visualization_
+# _Mermaid.js Learning Notes & Diagram Examples_
 
-This repository documents my learning journey through the **Udemy course on Mermaid.js**, a powerful tool for creating diagrams, charts, and visualizations using simple Markdown syntax.
-Here you’ll find concise guides, tips, and examples I create as I progress through the course.
-The goal is to build a practical reference for anyone learning Mermaid—clear, simple, and copy-friendly.
+This repo collects everything I’m learning about Mermaid.js—from video courses and documentation to experiments and ChatGPT explanations.<br/>
+Inside are short guides, solutions, and examples that helped me understand how Mermaid diagrams work in real environments.<br/>
+My aim is to create a clean, practical notebook of Mermaid knowledge for myself and others.<br/>
 
 ---
 
